@@ -2,8 +2,11 @@
 
 * 電子書籍URL
   * 対面電書（技術書典5で頒布したDLコードが必要です）
-    * Coming Soon...
+    * https://taimen.jp/f/731
   * BOOTH（pixivIDが必要です）
-    * Coming Soon...
+    * 【PDF】におうコードの問題集　〜セキュリティホールに立ち向かう編〜
+      * https://booth.pm/ja/items/1037983
+    * 【冊子】におうコードの問題集　〜セキュリティホールに立ち向かう編〜
+      * https://booth.pm/ja/items/1037997
 * フィードバックの内容をissueに記載してください
 * 検討後、電子版への反映をさせていただきます
